@@ -1,4 +1,9 @@
 # AI-Fertilizer-Usage-Advisor-with-Additional-Features
+
+## 🔒 Contribution Policy
+This is a public repository for showcase and learning.
+Direct contributions and commits are not accepted.
+
 <h1 align="center">Hi 👋, I'm Prajwal Khandre</h1>
 <h3 align="center">A passionate fullstack nextjs developer with hands on ai models and ai agent integrations</h3>
 
